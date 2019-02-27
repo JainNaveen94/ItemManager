@@ -1,0 +1,10 @@
+com\nagarro\dto\ItemType.class
+com\nagarro\itemmanagement\ItemInventory.class
+com\nagarro\exception\TypeCheckException.class
+com\nagarro\service\Deletion.class
+com\nagarro\service\Insertion.class
+com\nagarro\exception\CanNotBeNegativeException.class
+com\nagarro\dao\DataBase.class
+com\nagarro\dto\Item.class
+com\nagarro\service\Calculation.class
+com\nagarro\service\Display.class
